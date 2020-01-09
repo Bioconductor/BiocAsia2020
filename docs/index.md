@@ -9,6 +9,8 @@ the [Bioconductor](https://www.bioconductor.org) project.
 
 ## Confirmed Speakers
 
+- Robert Gentleman
+
 More information: [qian.liu@roswellpark.org][contact]
 
 [contact]: mailto:qian.liu@roswellpark.org?subject=BiocAsia2020%20question
