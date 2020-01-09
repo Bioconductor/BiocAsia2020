@@ -14,3 +14,7 @@ the [Bioconductor](https://www.bioconductor.org) project.
 More information: [qian.liu@roswellpark.org][contact]
 
 [contact]: mailto:qian.liu@roswellpark.org?subject=BiocAsia2020%20question
+
+<a href="https://twitter.com/intent/tweet?button_hashtag=biocAsia2020&ref_src=twsrc%5Etfw"
+    class="twitter-hashtag-button"
+    data-show-count="false">Tweet #biocAsia2020</a>
