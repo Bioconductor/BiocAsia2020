@@ -1,4 +1,4 @@
-{% header.md %}
+{% include header.md %}
 
 BiocAsia2020 highlights current developments within and beyond
 the [Bioconductor](https://www.bioconductor.org) project. 
