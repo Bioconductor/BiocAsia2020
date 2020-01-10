@@ -4,18 +4,18 @@ layout: default
 
 {% include header.md %}
 
-# Code of Conduct
+## Code of Conduct
 
 This code of conduct is developed for the BiocAsia2020 conference.
 
-## Social media policy
+### Social media policy
 
 Images and content from talks, workshops, and posters may be shared
 publicly through social media _unless_ the presenter asks for it not
 to be. To avoid confusion, presentations not to be shared should be
 labeled "Do Not Share" on each slide, as should be posters.
 
-## The _Bioconductor_ conference aims to provide a supportive, collegial, and harassment-free environment
+### The _Bioconductor_ conference aims to provide a supportive, collegial, and harassment-free environment
 
 _Bioconductor_ is dedicated to providing a supportive, collegial, and harassment-free 
 conference experience for everyone, regardless of:
@@ -29,7 +29,7 @@ or online. Sexual language and imagery is not appropriate for any conference ven
 Conference participants violating these rules may be sanctioned or expelled from the conference with no refund, 
 at the discretion of the conference organizers. Our anti-harassment policy can be found at: http://biocasia2020.bioconductor.org/code_of_conduct
 
-## Examples of unacceptable harassment, intimidation, and bullying behavior
+### Examples of unacceptable harassment, intimidation, and bullying behavior
 
 Harassment includes, but is not limited to:
 
@@ -107,19 +107,21 @@ assist you to feel safe for the duration of the event. We value your
 attendance.
 
     Conference organizers: workshop@bioconductor.org
-    Anonymous complaints: tinyurl.com/bioccomplaint
+    Anonymous complaints: tinyurl.com/bioccomplaint ??
     Local law enforcement: 110
-    Local sexual assault hot line: 212-227-3000
+    Local sexual assault hot line: xxx-xxx-xxxx
     [Phone number for conference security or organizers] 
     [Phone number for hotel/venue security] 
     [Local emergency and non-emergency medical (e.g., urgent care, day clinic)] 
 
-| Photo | Name |
+### Anti-harassment Committee
+
+| Member | Contact |
 |---|---|---|
-| <img src="images/JinGu.jpg" width="200" />       | Jin Gu <[jgu@tsinghua.edu.cn][2]> |
-| <img src="images/RuiJiang.jpg" width="200" />    | Rui Jiang  <[ruijiang@tsinghua.edu.cn][4]> |
-| <img src="images/QianLiu.jpg" width="200" />     | Qian Liu  <[qian.liu@roswellpark.org][6]> |
-| <img src="images/PeterHickey.jpg" width="200" /> | Peter Hickey <[hickey@wehi.edu.au][8]> |
+| <img src="images/JinGu.jpg" width="100" />       | Jin Gu <[jgu@tsinghua.edu.cn][2]> |
+| <img src="images/RuiJiang.jpg" width="100" />    | Rui Jiang  <[ruijiang@tsinghua.edu.cn][4]> |
+| <img src="images/QianLiu.jpg" width="100" />     | Qian Liu  <[qian.liu@roswellpark.org][6]> |
+| <img src="images/PeterHickey.jpg" width="100" /> | Peter Hickey <[hickey@wehi.edu.au][8]> |
 
 [0]: mailto:workshop@bioconductor.org?subject=BioC2019%20code-of-conduct
 [2]: mailto:jgu@tsinghua.edu.cn?subject=BioC2019%20code-of-conduct
