@@ -20,7 +20,7 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
 
 **Platinum: $10,000 USD**
 
-- Poster session will be named after these donors. 
+- Poster session will be named after these sponsors. 
 - Highest recognition, using your logo, in the online and print promotional and scheduling material. 
 - Two invitations to attend the speaker dinner.
 - Up to 8 free registrations.
