@@ -1,6 +1,6 @@
 # BiocAsia 2020
 
-When: Oct. 17 - 18, 2020<br />
+When: Oct 17 - 18, 2020<br />
 What: Main Conference<br />
 Where: Tsinghua University, Beijing, China<br />
 Slack: [Bioconductor Team][] (`#biocasia2020` channel)<br />

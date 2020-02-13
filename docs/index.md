@@ -1,13 +1,13 @@
-# BiocAsia 2020
+---
+layout: default
+speakers:
+  - name: Robert Gentleman
+    inst: 23andMe
+    url: https://blog.23andme.com/23andme-research/a-computational-biologist-and-a-gentleman/
+    blurb: "Robert Gentleman is currently vice president of computational biology at 23andMe. Prior to that, he was a senior director of Bioinformatics and computational biology in Genentech. He is recognized, along with Ross Ihaka, as one of the originators of the R programming language. He has also co-founded the Bioconductor project, which aims to promote the development of open-source tools for bioinformatics and computational biology."
+---
 
-When: Oct. 17 - 18, 2020<br />
-What: Main Conference<br />
-Where: Tsinghua University, Beijing, China<br />
-Slack: [Bioconductor Team][] (`#biocasia2020` channel)<br />
-Twitter: [#biocAsia2020][tweet]<br />
-
-[tweet]: https://twitter.com/hashtag/biocAsia2020?f=tweets
-[Bioconductor Team]: https://bioc-community.herokuapp.com/
+{% include header.md %}
 
 BiocAsia2020 highlights current developments within and beyond
 the [Bioconductor](https://www.bioconductor.org) project. 
@@ -18,7 +18,14 @@ the [Bioconductor](https://www.bioconductor.org) project.
 
 ## Confirmed Speakers
 
-- Robert Gentleman
+{% for s in page.speakers %}
+{% assign imgpath = "images/speakers/" | append: s.name | remove: ' ' | append: '.jpg' %}
+<img src="{{ imgpath }}" style="float:right; width:150px; height:150px; object-fit: cover">
+### [{{ s.name }}]({{ s.url }}), {{ s.inst }}
+
+> {{ s.blurb }}
+
+{% endfor %}
 
 More information: [qian.liu@roswellpark.org][contact]
 
