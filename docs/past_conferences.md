@@ -6,8 +6,10 @@ layout: default
 
 ## Bioconductor Asia conferences and course materials
 - [Bioconductor Asia 2019](https://bioconductor.github.io/BiocAsia/), Sydney, Australia
-- [Bioconductor Asia 2018]()
-- [Bioconductor Asia 2017]() 
+- [Bioconductor Asia 2018](https://docs.google.com/document/d/1MT3-4fhHmwxqf72Mj5FIsaOwEYKsHlij114j1-muMu0/edit?usp=sharing), Melbourne, Australia
+- [Bioconductor Asia 2017](https://docs.google.com/document/d/1XH1CUFMyuyJk0MVaEj-6nLLHcvZuV4WR7vt-LteomMs/edit?usp=sharing), Adelaide, Australia
+- [Bioconductor Asia 2016](https://docs.google.com/document/d/1IswBic7dQ4dJpEawYHfIjC6D-fXuoMtc-iKbM7juN2E/edit?usp=sharing), Brisbane, Australia
+- [Bioconductor Asia 2015](https://docs.google.com/document/d/1DrUYi96ZnIeOgjOHiWzoNRNrwOxwGwfMp1qkOwVKBrA/edit?usp=sharing), Tokyo, Japan
 
 ## Bioconductor main conferences and course materials
 
