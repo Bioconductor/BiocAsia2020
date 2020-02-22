@@ -21,7 +21,7 @@ speakers:
     blurb: "Charity Law is a statistical bioinformatician whose work focuses predominantly on gene expression analyses of high-throughput data. The impact of her work is best illustrated by the popularity of limma-voom, a method for RNA-seq gene expression analysis that she developed. She currently holds the position of senior research officer in the Epigenetics and Development Division at Walter and Eliza Hall Institute of Medical Research, Australia. In addition to differential gene expression, her research interests include differential isoform usage and transcript expression analyses, as well as exploration into methods for long-read RNA-seq and single-cell RNA-seq data."
   - name: Koki Tsuyuzaki
     inst: RIKEN BDR BiT, Japan
-    blurb: "Koki Tsuyuzaki is a post-doc researcher at RIKEN BDR BiT and also a researcher at JST PRESTO. He is one of the active Bioconductor committers and has developed hundreds of R/Bioconductor packages including MeSH.db, MeSH.AOR.db, MeSH.PCR.db, MeSH.XXX.eg.db, MeSHDbi, LRBase.XXX.eg.db, LRBaseDbi, scTensor, and scTGIF. He will talk about the data integration approach based on tensor decomposition and the applications to single-cell omics."
+    blurb: "Koki Tsuyuzaki is a post-doc researcher at RIKEN BDR BiT and also a researcher at JST PRESTO. He is one of the active Bioconductor committers and has developed hundreds of R/Bioconductor packages including metaSeq, MeSH.db, MeSH.AOR.db, MeSH.PCR.db, MeSH.XXX.eg.db, MeSHDbi, LRBase.XXX.eg.db, LRBaseDbi, scTensor, and scTGIF. He will talk about the data integration approach based on tensor decomposition and the applications to single-cell omics." 
 ---
 {% include header.md %}
 
