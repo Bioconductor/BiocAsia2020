@@ -25,12 +25,24 @@ speakers:
 ---
 {% include header.md %}
 
-BiocAsia2020 highlights current developments within and beyond
-the [Bioconductor](https://www.bioconductor.org) project. 
+BioC Asia 2020 is proceeding as a Virtual Conference.
 
-## Key dates
+BioC Asia 2020 highlights current developments within and beyond
+the [Bioconductor](https://www.bioconductor.org) project, with a focus on
+developments from people in the Asia-Pacific region.
+The structure of the conference is still being determined but will contain the 
+following:
 
-- Oct 17-18: BiocAsia2020 Meeting, Beijing
+- Keynotes and contributed talks with live Q&A sessions
+- Interactive workshops
+- Virtual poster session
+
+Interactive sessions will be held 0830 - 1700 Beijing Time / China Standard 
+Time (UTC + 8).
+
+## Key dates for virtual BioC Asia 2020
+
+- Oct 17-18: BioC Asia 2020 Virtual Meeting
 
 ## Confirmed Speakers
 
@@ -43,10 +55,10 @@ the [Bioconductor](https://www.bioconductor.org) project.
 
 {% endfor %}
 
-More information: [qian.liu@roswellpark.org][contact]
+More information: [hickey@wehi.edu.au][contact]
 
-[contact]: mailto:qian.liu@roswellpark.org?subject=BiocAsia2020%20question
+[contact]: mailto:hickey@wehi.edu.au?subject=BioC%20Asia%202020%20question
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=biocAsia2020&ref_src=twsrc%5Etfw"
+  <a href="https://twitter.com/intent/tweet?button_hashtag=BioCAsia2020&ref_src=twsrc%5Etfw"
     class="twitter-hashtag-button"
-    data-show-count="false">Tweet #biocAsia2020</a>
+    data-show-count="false">Tweet #BioCAsia2020</a>

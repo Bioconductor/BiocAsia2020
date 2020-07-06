@@ -1,4 +1,4 @@
-# BiocAsia2020
+# BioC Asia 2020
 
 This repository contains material for the _Bioconductor_ Asia annual
 conference. [View the conference web site][1].

@@ -6,7 +6,7 @@ layout: default
 
 ## Code of Conduct
 
-This code of conduct is developed for the BiocAsia2020 conference.
+This code of conduct is developed for the BioC Asia 2020 conference.
 
 ### Social media policy
 
