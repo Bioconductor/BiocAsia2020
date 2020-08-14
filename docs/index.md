@@ -42,7 +42,7 @@ Time (UTC + 8).
 
 ## Key dates for virtual BioC Asia 2020
 
-- Oct 17-18: BioC Asia 2020 Virtual Meeting
+- Oct 15-18: BioC Asia 2020 Virtual Meeting
 
 ## Confirmed Speakers
 

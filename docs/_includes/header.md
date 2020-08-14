@@ -1,6 +1,6 @@
 # BioC Asia 2020
 
-When: Oct 17 - 18, 2020<br />
+When: Oct 15 - 18, 2020<br />
 What: Main Conference<br />
 Where: Virtual Conference<br />
 Slack: [Bioconductor Team][] (`#biocasia2020` channel)<br />
