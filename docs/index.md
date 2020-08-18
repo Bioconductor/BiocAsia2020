@@ -22,6 +22,9 @@ speakers:
   - name: Koki Tsuyuzaki
     inst: RIKEN BDR BiT, Japan
     blurb: "Koki Tsuyuzaki is a post-doc researcher at RIKEN BDR BiT and also a researcher at JST PRESTO. He is one of the active Bioconductor committers and has developed hundreds of R/Bioconductor packages including metaSeq, MeSH.db, MeSH.AOR.db, MeSH.PCR.db, MeSH.XXX.eg.db, MeSHDbi, LRBase.XXX.eg.db, LRBaseDbi, scTensor, and scTGIF. He will talk about the data integration approach based on tensor decomposition and the applications to single-cell omics." 
+  - name: Guangchuang Yu
+    inst: Southern Medical University, China
+    blurb: "Guangchuang Yu is currently a professor and the associate director of the Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical University. His group has developed several Bioconductor packages including enrichment analysis and visualization (clusterProfiler and enrichplot), semantic similarity measurement (GOSemSim and DOSE), peak annotation and comparison (ChIPseeker), phylogenetic data integration and visualization (treeio, ggtree and ggtreeExtra), and microbial biomarker discovery (MicrobiotaProcess)."
 ---
 {% include header.md %}
 
