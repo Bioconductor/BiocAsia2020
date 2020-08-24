@@ -9,9 +9,13 @@ speakers:
     inst: Center for Computational and Genomic Medicine, Children’s Hospital of Philadelphia
     url: https://xinglab.org/people/yi-xing/
     blurb: "Dr. Yi Xing is the Francis West Lewis Endowed Chair and Founding Director of the Center for Computational and Genomic Medicine at the Children’s Hospital of Philadelphia (CHOP), and Professor of Pathology and Laboratory Medicine at the University of Pennsylvania (Penn). Dr. Xing has an extensive publication record in bioinformatics, genomics, and RNA biology. His work has provided fundamental insights into the function, regulation, and evolution of post-transcriptional RNA processing in mammals. His current research merges the fields of computational biology, biomedical data science, RNA genomics, human genetics, precision medicine, and immuno-oncology."
+  - name: Xuegong Zhang
+    inst: Tsinghua University, China
+    url: http://www.moebioinfo.tsinghua.edu.cn/team/guding/item/478-2016-09-07-15-01-52
+    blurb: "Dr. Zhang is a Professor and Director of Bioinformatics Division, Tsinghua National Laboratory of Information Science and Technology (TNLIST). The main research directions are pattern recognition, bioinformatics, and systems biology. Great achievements have been made in high-throughput omics data processing and analysis methods, RNA sequencing and alternative splicing regulation, metagenomic analysis, biological big data machine learning, and precision medicine applications."
   - name: Lihua Julie Zhu
     inst: University of Massachusetts Medical School
-    url:  https://profiles.umassmed.edu/display/129880
+    url: https://profiles.umassmed.edu/display/129880
     blurb: "Lihua Julie Zhu is currently a professor and the head of Bioinformatics Core in the Department of Molecular, Cell and Cancer Biology (MCCB) of University of Massachusetts Medical School (UMMS). Her group has developed a dozen Bioconductor packages with various utilities including peak annotation (ChIPpeakAnno), motif analysis and visualization (motifStack and dagLogo), ATAC-seq data evaluation (ATACseqQC), polyadenylation site identification (cleanUpdTSeq and InPAS), multi-omics data integration and visualization (trackViewer and geneNetworkBuilder), nucleolar-associated domain finder (NADfinder), and gRNA design and evaluation (CRISPRseek and GUIDEseq) for the CRISPR genome editing system."
   - name: Saskia Freytag 
     inst:  Harry Perkins Institute of Medical Research, Australia
@@ -22,9 +26,27 @@ speakers:
   - name: Koki Tsuyuzaki
     inst: RIKEN BDR BiT, Japan
     blurb: "Koki Tsuyuzaki is a post-doc researcher at RIKEN BDR BiT and also a researcher at JST PRESTO. He is one of the active Bioconductor committers and has developed hundreds of R/Bioconductor packages including metaSeq, MeSH.db, MeSH.AOR.db, MeSH.PCR.db, MeSH.XXX.eg.db, MeSHDbi, LRBase.XXX.eg.db, LRBaseDbi, scTensor, and scTGIF. He will talk about the data integration approach based on tensor decomposition and the applications to single-cell omics." 
+<<<<<<< HEAD
+  - name: Tingting Li
+    inst: Peking University, China
+    url: http://sbms.bjmu.edu.cn/jsdw/bssds/dsjs/200037.htm
+    blurb: "Dr. Li is an Associate Professor in the Department of Medical Informatics, Peking University School of Basic Medical Sciences. She is focusing on the bioinformatics research work of protein post-translational modification regulatory network and comprehensive mining of multi-omics data, using information and systems perspectives and methods to study basic issues in life sciences. A total of 33 SCI papers have been published in the field of bioinformatics, of which 21 SCI-listed papers have been published in journals such as Nucleic Acids Research, Mol Cell Proteomics, Briefings in Bioinformatics, EBioMedicine, etc. as correspondence or first author (including joint)."
   - name: Guangchuang Yu
-    inst: Southern Medical University, China
-    blurb: "Guangchuang Yu is currently a professor and the associate director of the Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical University. His group has developed several Bioconductor packages including enrichment analysis and visualization (clusterProfiler and enrichplot), semantic similarity measurement (GOSemSim and DOSE), peak annotation and comparison (ChIPseeker), phylogenetic data integration and visualization (treeio, ggtree and ggtreeExtra), and microbial biomarker discovery (MicrobiotaProcess)."
+    inst: Southern Medical University, China 
+    url: http://portal.smu.edu.cn/jcyxy/info/1084/2203.htm
+    blurb: "Guangchuang Yu is a Professor and associate director in the Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical University. His group is committed to developing bioinformatics tools for the analysis and visualization of biological data. He has developed several Bioconductor packages including enrichment analysis and visualization (clusterProfiler and enrichplot), semantic similarity measurement (GOSemSim and DOSE), peak annotation and comparison (ChIPseeker), phylogenetic data integration and visualization (treeio, ggtree and ggtreeExtra), and microbial biomarker discovery (MicrobiotaProcess). He has published many highly cited research papers in journals such as Molecular Biology and Evolution, Methods in Ecology and Evolution, and Bioinformatics."
+  - name: Kai Ye
+    inst: Xi'an Jiaotong University, China 
+    url: http://gr.xjtu.edu.cn/web/kaiye
+    blurb: "Dr. Ye is a Professor at Xi’an Jiaotong University. The current research fields are large data mining, pattern recognition, computer algorithms, machine learning, bioinformatics, and genomic variation. Previously, Dr. Ye was appointed as an assistant professor at Leiden University Medical Center in the Netherlands and then The Genome Institute at Washington University in St. Louis in the United States. He has developed a series of genomic mutation detection methods such as Pindel and MSIsensor. He was an invited member of the 1000 Genomes Project and The Cancer Genome Atlas (TCGA). Five representative papers in the past five years have been published in Science, Nature Medicine, Nature Communications, Genome Research, and GPB."
+  - name: Qiangfeng Zhang
+    inst: Tsinghua University, China
+    url: http://www.moebioinfo.tsinghua.edu.cn/team/guding/item/483-2016-09-07-15-01-52
+    blurb: "Dr. Zhang is a Professor in MOE Key Laboratory of Bioinformatics, Tsinghua University. His recent research interests are the application of the structural systems biology methods to study the mechanism and effective prediction of protein-RNA interaction, the structure, function, and evolution of non-coding RNA, and human diseases, especially the molecular mechanism and effective treatment methods in cancer and infectious diseases caused by RNA viruses. His research achievement in structural systems biology has been published in many high-impact journals such as Nature and PNAS. "
+  - name: Lin Hou
+    inst: Tsinghua University, China
+    url: http://www.moebioinfo.tsinghua.edu.cn/team/guding/item/613-2018-02-01-01-53-12
+    blurb: "Dr. Hou is an Associate Professor in the Center for Statistical Science, Tsinghua University.  She is specialized in statistics and its application in biological big data and precision medicine, including statistical genetics, whole-genome association analysis, modeling and analysis of next-generation sequencing data, cancer genomics, large-scale biological interaction networks, and multi-omics data integration, etc."
 ---
 {% include header.md %}
 
