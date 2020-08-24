@@ -26,7 +26,6 @@ speakers:
   - name: Koki Tsuyuzaki
     inst: RIKEN BDR BiT, Japan
     blurb: "Koki Tsuyuzaki is a post-doc researcher at RIKEN BDR BiT and also a researcher at JST PRESTO. He is one of the active Bioconductor committers and has developed hundreds of R/Bioconductor packages including metaSeq, MeSH.db, MeSH.AOR.db, MeSH.PCR.db, MeSH.XXX.eg.db, MeSHDbi, LRBase.XXX.eg.db, LRBaseDbi, scTensor, and scTGIF. He will talk about the data integration approach based on tensor decomposition and the applications to single-cell omics." 
-<<<<<<< HEAD
   - name: Tingting Li
     inst: Peking University, China
     url: http://sbms.bjmu.edu.cn/jsdw/bssds/dsjs/200037.htm
