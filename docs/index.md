@@ -26,6 +26,7 @@ speakers:
   - name: Koki Tsuyuzaki
     inst: RIKEN BDR BiT, Japan
     blurb: "Koki Tsuyuzaki is a post-doc researcher at RIKEN BDR BiT and also a researcher at JST PRESTO. He is one of the active Bioconductor committers and has developed hundreds of R/Bioconductor packages including metaSeq, MeSH.db, MeSH.AOR.db, MeSH.PCR.db, MeSH.XXX.eg.db, MeSHDbi, LRBase.XXX.eg.db, LRBaseDbi, scTensor, and scTGIF. He will talk about the data integration approach based on tensor decomposition and the applications to single-cell omics." 
+<<<<<<< HEAD
   - name: Tingting Li
     inst: Peking University, China
     url: http://sbms.bjmu.edu.cn/jsdw/bssds/dsjs/200037.htm
@@ -33,7 +34,7 @@ speakers:
   - name: Guangchuang Yu
     inst: Southern Medical University, China 
     url: http://portal.smu.edu.cn/jcyxy/info/1084/2203.htm
-    blurb: "Guangchuang Yu is a Professor and deputy director in the Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical University. He is mainly focused on the study of virus evolution, especially cross-species transmission, tumor occurrence and development, and the synergy of viruses and tumors, through the integration of multiple reorganization data and combining bioinformatics related technologies. He is also committed to developing bioinformatics tools for the analysis and visualization of biological data. He has published many research papers as the first author in international journals such as Molecular Biology and Evolution, Methods in Ecology and Evolution, and Bioinformatics. Among the published papers, there are 5 highly cited ESI papers."
+    blurb: "Guangchuang Yu is a Professor and associate director in the Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical University. His group is committed to developing bioinformatics tools for the analysis and visualization of biological data. He has developed several Bioconductor packages including enrichment analysis and visualization (clusterProfiler and enrichplot), semantic similarity measurement (GOSemSim and DOSE), peak annotation and comparison (ChIPseeker), phylogenetic data integration and visualization (treeio, ggtree and ggtreeExtra), and microbial biomarker discovery (MicrobiotaProcess). He has published many highly cited research papers in journals such as Molecular Biology and Evolution, Methods in Ecology and Evolution, and Bioinformatics."
   - name: Kai Ye
     inst: Xi'an Jiaotong University, China 
     url: http://gr.xjtu.edu.cn/web/kaiye
@@ -49,12 +50,24 @@ speakers:
 ---
 {% include header.md %}
 
-BiocAsia2020 highlights current developments within and beyond
-the [Bioconductor](https://www.bioconductor.org) project. 
+BioC Asia 2020 is proceeding as a Virtual Conference.
 
-## Key dates
+BioC Asia 2020 highlights current developments within and beyond
+the [Bioconductor](https://www.bioconductor.org) project, with a focus on
+developments from people in the Asia-Pacific region.
+The structure of the conference is still being determined but will contain the 
+following:
 
-- Oct 17-18: BiocAsia2020 Meeting, Beijing
+- Keynotes and contributed talks with live Q&A sessions
+- Interactive workshops
+- Virtual poster session
+
+Interactive sessions will be held 0830 - 1700 Beijing Time / China Standard 
+Time (UTC + 8).
+
+## Key dates for virtual BioC Asia 2020
+
+- Oct 15-18: BioC Asia 2020 Virtual Meeting
 
 ## Confirmed Speakers
 
@@ -67,10 +80,10 @@ the [Bioconductor](https://www.bioconductor.org) project.
 
 {% endfor %}
 
-More information: [qian.liu@roswellpark.org][contact]
+More information: [hickey@wehi.edu.au][contact]
 
-[contact]: mailto:qian.liu@roswellpark.org?subject=BiocAsia2020%20question
+[contact]: mailto:hickey@wehi.edu.au?subject=BioC%20Asia%202020%20question
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=biocAsia2020&ref_src=twsrc%5Etfw"
+  <a href="https://twitter.com/intent/tweet?button_hashtag=BioCAsia2020&ref_src=twsrc%5Etfw"
     class="twitter-hashtag-button"
-    data-show-count="false">Tweet #biocAsia2020</a>
+    data-show-count="false">Tweet #BioCAsia2020</a>

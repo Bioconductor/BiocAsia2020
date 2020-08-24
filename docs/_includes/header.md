@@ -1,10 +1,10 @@
-# BiocAsia 2020
+# BioC Asia 2020
 
-When: Oct 17 - 18, 2020<br />
+When: Oct 15 - 18, 2020<br />
 What: Main Conference<br />
-Where: Tsinghua University, Beijing, China<br />
+Where: Virtual Conference<br />
 Slack: [Bioconductor Team][] (`#biocasia2020` channel)<br />
-Twitter: [#biocAsia2020][tweet]<br />
+Twitter: [#BioCAsia2020][tweet]<br />
 
-[tweet]: https://twitter.com/hashtag/biocAsia2020?f=tweets
+[tweet]: https://twitter.com/hashtag/BioCAsia2020?f=tweets
 [Bioconductor Team]: https://bioc-community.herokuapp.com/
