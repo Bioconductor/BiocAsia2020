@@ -51,8 +51,7 @@ speakers:
 
 BioC Asia 2020 is proceeding as a Virtual Conference.
 BioC Asia 2020 highlights current developments within and beyond the [Bioconductor](https://www.bioconductor.org) project, with a focus on developments from people in the Asia-Pacific region.
-Interactive sessions will be held 0830 - 1700 Beijing Time / China Standard 
-Time (UTC + 8).
+Interactive sessions will be held 0830 - 1700 Beijing Time / China Standard Time (UTC + 8).
 
 ## Conference highlights
 
