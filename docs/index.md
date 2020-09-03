@@ -50,22 +50,40 @@ speakers:
 {% include header.md %}
 
 BioC Asia 2020 is proceeding as a Virtual Conference.
-
-BioC Asia 2020 highlights current developments within and beyond
-the [Bioconductor](https://www.bioconductor.org) project, with a focus on
-developments from people in the Asia-Pacific region.
-The structure of the conference is still being determined but will contain the 
-following:
-
-- Keynotes and contributed talks with live Q&A sessions
-- Interactive workshops
-- Virtual poster session
-
+BioC Asia 2020 highlights current developments within and beyond the [Bioconductor](https://www.bioconductor.org) project, with a focus on developments from people in the Asia-Pacific region.
 Interactive sessions will be held 0830 - 1700 Beijing Time / China Standard 
 Time (UTC + 8).
 
+## Conference highlights
+
+<!-- * [Workshop materials](./workshops.md) are available
+* Posters and Slides are available on the [Bioconductor F1000 Bioc2020 portal](https://f1000research.com/gateways/bioconductor/bioc2020) 
+* Videos of talks will be posted on the [Bioconductor YouTube channel](https://www.youtube.com/user/bioconductor) after the conference ([in progress](https://www.youtube.com/watch?v=8MojYYkuLcM&list=PLdl4u5ZRDMQSENJBo6k_wcA27gtydm-bz))
+* Contact Us: [workshop@bioconductor.org](mailto:workshop@bioconductor.org)
+* Technical Support for BioC2020: [virtual@conferencedirect.com](mailto:virtual@conferencedirect.com) -->
+* Keynotes and contributed talks with live Q&A sessions
+* Live tweets of the conference will be posted on [Twitter](https://twitter.com/hashtag/biocasia2020) using [#BioCAsia2020](https://twitter.com/hashtag/BioCAsia2020) hashtag
+* Join Bioc conversations on Slack [https://bioc-community.herokuapp.com/](https://bioc-community.herokuapp.com/)
+* Follow [@Bioconductor](https://twitter.com/Bioconductor) on Twitter [https://twitter.com/Bioconductor](https://twitter.com/Bioconductor)
+* For Bioconductor support, use [https://support.bioconductor.org/](https://support.bioconductor.org/)
+* Bioconductor website [https://www.bioconductor.org/](https://www.bioconductor.org/)
+
+[Registration for virtual BioC Asia 2020 is open](https://biocasia2020.eventbrite.com.au).
+A new flat-rate fee of 70.00 AUDD will give attendees access to the virtual platform for the conference, talks, workshops, Q&As following each session, and network opportunities.
+
+The [call for abstracts](./call-for-abstracts.md) is open.
+The [call for scholarships](./scholarships.md) remains open and will waive the virtual registration fee.  
+
+<!-- Conference flyer [#1](images/flyers/BioC2020Flyerlandscape_lg.pdf), [#2](images/flyers/BioC2020FlyerPortrait.pdf) -->
+
+
 ## Key dates for virtual BioC Asia 2020
 
+- Sep 3: Registration Opens
+- Sep 3: [Call for abstracts/applications for talks, posters, scholarships, workshops](./call-for-abstracts.md)
+- Sep 24: Deadline for proposals for talks and posters
+- Oct 1: Deadline for scholarships
+- Oct 5: Notification of decision for scholarships
 - Oct 15-18: BioC Asia 2020 Virtual Meeting
 
 ## Confirmed Speakers
