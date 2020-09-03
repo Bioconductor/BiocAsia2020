@@ -53,6 +53,12 @@ BioC Asia 2020 is proceeding as a Virtual Conference.
 BioC Asia 2020 highlights current developments within and beyond the [Bioconductor](https://www.bioconductor.org) project, with a focus on developments from people in the Asia-Pacific region.
 Interactive sessions will be held 0830 - 1700 Beijing Time / China Standard Time (UTC + 8).
 
+[Registration for virtual BioC Asia 2020 is open](https://biocasia2020.eventbrite.com.au).
+A new flat-rate fee of 70.00 AUD will give attendees access to the virtual platform for the conference, talks, workshops, Q&As following each session, and network opportunities.
+
+The [call for abstracts](./call-for-abstracts.md) is open.
+The [call for scholarships](./scholarships.md) remains open and will waive the virtual registration fee.
+
 ## Conference highlights
 
 <!-- * [Workshop materials](./workshops.md) are available
@@ -66,12 +72,6 @@ Interactive sessions will be held 0830 - 1700 Beijing Time / China Standard Time
 * Follow [@Bioconductor](https://twitter.com/Bioconductor) on Twitter [https://twitter.com/Bioconductor](https://twitter.com/Bioconductor)
 * For Bioconductor support, use [https://support.bioconductor.org/](https://support.bioconductor.org/)
 * Bioconductor website [https://www.bioconductor.org/](https://www.bioconductor.org/)
-
-[Registration for virtual BioC Asia 2020 is open](https://biocasia2020.eventbrite.com.au).
-A new flat-rate fee of 70.00 AUDD will give attendees access to the virtual platform for the conference, talks, workshops, Q&As following each session, and network opportunities.
-
-The [call for abstracts](./call-for-abstracts.md) is open.
-The [call for scholarships](./scholarships.md) remains open and will waive the virtual registration fee.  
 
 <!-- Conference flyer [#1](images/flyers/BioC2020Flyerlandscape_lg.pdf), [#2](images/flyers/BioC2020FlyerPortrait.pdf) -->
 
