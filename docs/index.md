@@ -1,10 +1,10 @@
 ---
 layout: default
-speakers:
+keynoteSpeakers:
   - name: Robert Gentleman
-    inst: 23andMe
+    inst: Harvard Center for Computational Biomedicine
     url: https://blog.23andme.com/23andme-research/a-computational-biologist-and-a-gentleman/
-    blurb: "Robert Gentleman is currently vice president of computational biology at 23andMe. Prior to that, he was a senior director of Bioinformatics and computational biology in Genentech. He is recognized, along with Ross Ihaka, as one of the originators of the R programming language. He has also co-founded the Bioconductor project, which aims to promote the development of open-source tools for bioinformatics and computational biology."
+    blurb: "Robert Gentleman is currently the founding executive director of the Harvard Center for Computational Biomedicine. Prior to that, he has held important positions in 23andMe, Genentech, Fred Hutch Cancer Institute, and Dana Farber Cancer Institute at Harvard. He is recognized as one of the originators of the R programming language. He has also co-founded the Bioconductor project, which aims to promote the development of open-source tools for bioinformatics and computational biology."
   - name: Yi Xing
     inst: Center for Computational and Genomic Medicine, Children’s Hospital of Philadelphia
     url: https://xinglab.org/people/yi-xing/
@@ -13,27 +13,11 @@ speakers:
     inst: Tsinghua University, China
     url: http://www.moebioinfo.tsinghua.edu.cn/team/guding/item/478-2016-09-07-15-01-52
     blurb: "Dr. Zhang is a Professor and Director of Bioinformatics Division, Tsinghua National Laboratory of Information Science and Technology (TNLIST). The main research directions are pattern recognition, bioinformatics, and systems biology. Great achievements have been made in high-throughput omics data processing and analysis methods, RNA sequencing and alternative splicing regulation, metagenomic analysis, biological big data machine learning, and precision medicine applications."
+invitedSpeakers:
   - name: Lihua Julie Zhu
     inst: University of Massachusetts Medical School
     url: https://profiles.umassmed.edu/display/129880
     blurb: "Lihua Julie Zhu is currently a professor and the head of Bioinformatics Core in the Department of Molecular, Cell and Cancer Biology (MCCB) of University of Massachusetts Medical School (UMMS). Her group has developed a dozen Bioconductor packages with various utilities including peak annotation (ChIPpeakAnno), motif analysis and visualization (motifStack and dagLogo), ATAC-seq data evaluation (ATACseqQC), polyadenylation site identification (cleanUpdTSeq and InPAS), multi-omics data integration and visualization (trackViewer and geneNetworkBuilder), nucleolar-associated domain finder (NADfinder), and gRNA design and evaluation (CRISPRseek and GUIDEseq) for the CRISPR genome editing system."
-  - name: Saskia Freytag 
-    inst:  Harry Perkins Institute of Medical Research, Australia
-    blurb: "Saskia Freytag is currently a post-doctoral researcher focusing on single cell omics at the Harry Perkins Institute of Medical Research. She is the developer and maintainer of several Bioconductor packages and interactive applications. For several years, she was one of the co-organizer of R-Ladies Melbourne, a diversity initiative aiming to promote gender diversity in the R community. She is also the co-host of a podcast about the R language."
-  - name: Charity Law
-    inst: Walter and Eliza Hall Institute of Medical Research, Australia
-    blurb: "Charity Law is a statistical bioinformatician whose work focuses predominantly on gene expression analyses of high-throughput data. The impact of her work is best illustrated by the popularity of limma-voom, a method for RNA-seq gene expression analysis that she developed. She currently holds the position of senior research officer in the Epigenetics and Development Division at Walter and Eliza Hall Institute of Medical Research, Australia. In addition to differential gene expression, her research interests include differential isoform usage and transcript expression analyses, as well as exploration into methods for long-read RNA-seq and single-cell RNA-seq data."
-  - name: Koki Tsuyuzaki
-    inst: RIKEN BDR BiT, Japan
-    blurb: "Koki Tsuyuzaki is a post-doc researcher at RIKEN BDR BiT and also a researcher at JST PRESTO. He is one of the active Bioconductor committers and has developed hundreds of R/Bioconductor packages including metaSeq, MeSH.db, MeSH.AOR.db, MeSH.PCR.db, MeSH.XXX.eg.db, MeSHDbi, LRBase.XXX.eg.db, LRBaseDbi, scTensor, and scTGIF. He will talk about the data integration approach based on tensor decomposition and the applications to single-cell omics." 
-  - name: Tingting Li
-    inst: Peking University, China
-    url: http://sbms.bjmu.edu.cn/jsdw/bssds/dsjs/200037.htm
-    blurb: "Dr. Li is an Associate Professor in the Department of Medical Informatics, Peking University School of Basic Medical Sciences. She is focusing on the bioinformatics research work of protein post-translational modification regulatory network and comprehensive mining of multi-omics data, using information and systems perspectives and methods to study basic issues in life sciences. A total of 33 SCI papers have been published in the field of bioinformatics, of which 21 SCI-listed papers have been published in journals such as Nucleic Acids Research, Mol Cell Proteomics, Briefings in Bioinformatics, EBioMedicine, etc. as correspondence or first author (including joint)."
-  - name: Guangchuang Yu
-    inst: Southern Medical University, China 
-    url: http://portal.smu.edu.cn/jcyxy/info/1084/2203.htm
-    blurb: "Guangchuang Yu is a Professor and associate director in the Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical University. His group is committed to developing bioinformatics tools for the analysis and visualization of biological data. He has developed several Bioconductor packages including enrichment analysis and visualization (clusterProfiler and enrichplot), semantic similarity measurement (GOSemSim and DOSE), peak annotation and comparison (ChIPseeker), phylogenetic data integration and visualization (treeio, ggtree and ggtreeExtra), and microbial biomarker discovery (MicrobiotaProcess). He has published many highly cited research papers in journals such as Molecular Biology and Evolution, Methods in Ecology and Evolution, and Bioinformatics."
   - name: Kai Ye
     inst: Xi'an Jiaotong University, China 
     url: http://gr.xjtu.edu.cn/web/kaiye
@@ -42,10 +26,27 @@ speakers:
     inst: Tsinghua University, China
     url: http://www.moebioinfo.tsinghua.edu.cn/team/guding/item/483-2016-09-07-15-01-52
     blurb: "Dr. Zhang is a Professor in MOE Key Laboratory of Bioinformatics, Tsinghua University. His recent research interests are the application of the structural systems biology methods to study the mechanism and effective prediction of protein-RNA interaction, the structure, function, and evolution of non-coding RNA, and human diseases, especially the molecular mechanism and effective treatment methods in cancer and infectious diseases caused by RNA viruses. His research achievement in structural systems biology has been published in many high-impact journals such as Nature and PNAS. "
+  - name: Tingting Li
+    inst: Peking University, China
+    url: http://sbms.bjmu.edu.cn/jsdw/bssds/dsjs/200037.htm
+    blurb: "Dr. Li is an Associate Professor in the Department of Medical Informatics, Peking University School of Basic Medical Sciences. She is focusing on the bioinformatics research work of protein post-translational modification regulatory network and comprehensive mining of multi-omics data, using information and systems perspectives and methods to study basic issues in life sciences. A total of 33 SCI papers have been published in the field of bioinformatics, of which 21 SCI-listed papers have been published in journals such as Nucleic Acids Research, Mol Cell Proteomics, Briefings in Bioinformatics, EBioMedicine, etc. as correspondence or first author (including joint)."
   - name: Lin Hou
     inst: Tsinghua University, China
     url: http://www.moebioinfo.tsinghua.edu.cn/team/guding/item/613-2018-02-01-01-53-12
     blurb: "Dr. Hou is an Associate Professor in the Center for Statistical Science, Tsinghua University.  She is specialized in statistics and its application in biological big data and precision medicine, including statistical genetics, whole-genome association analysis, modeling and analysis of next-generation sequencing data, cancer genomics, large-scale biological interaction networks, and multi-omics data integration, etc."
+  - name: Guangchuang Yu
+    inst: Southern Medical University, China 
+    url: http://portal.smu.edu.cn/jcyxy/info/1084/2203.htm
+    blurb: "Guangchuang Yu is a Professor and associate director in the Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical University. His group is committed to developing bioinformatics tools for the analysis and visualization of biological data. He has developed several Bioconductor packages including enrichment analysis and visualization (clusterProfiler and enrichplot), semantic similarity measurement (GOSemSim and DOSE), peak annotation and comparison (ChIPseeker), phylogenetic data integration and visualization (treeio, ggtree and ggtreeExtra), and microbial biomarker discovery (MicrobiotaProcess). He has published many highly cited research papers in journals such as Molecular Biology and Evolution, Methods in Ecology and Evolution, and Bioinformatics."
+  - name: Charity Law
+    inst: Walter and Eliza Hall Institute of Medical Research, Australia
+    blurb: "Charity Law is a statistical bioinformatician whose work focuses predominantly on gene expression analyses of high-throughput data. The impact of her work is best illustrated by the popularity of limma-voom, a method for RNA-seq gene expression analysis that she developed. She currently holds the position of senior research officer in the Epigenetics and Development Division at Walter and Eliza Hall Institute of Medical Research, Australia. In addition to differential gene expression, her research interests include differential isoform usage and transcript expression analyses, as well as exploration into methods for long-read RNA-seq and single-cell RNA-seq data."
+  - name: Koki Tsuyuzaki
+    inst: RIKEN BDR BiT, Japan
+    blurb: "Koki Tsuyuzaki is a post-doc researcher at RIKEN BDR BiT and also a researcher at JST PRESTO. He is one of the active Bioconductor committers and has developed hundreds of R/Bioconductor packages including metaSeq, MeSH.db, MeSH.AOR.db, MeSH.PCR.db, MeSH.XXX.eg.db, MeSHDbi, LRBase.XXX.eg.db, LRBaseDbi, scTensor, and scTGIF. He will talk about the data integration approach based on tensor decomposition and the applications to single-cell omics." 
+  - name: Saskia Freytag 
+    inst:  Harry Perkins Institute of Medical Research, Australia
+    blurb: "Saskia Freytag is currently a post-doctoral researcher focusing on single cell omics at the Harry Perkins Institute of Medical Research. She is the developer and maintainer of several Bioconductor packages and interactive applications. For several years, she was one of the co-organizer of R-Ladies Melbourne, a diversity initiative aiming to promote gender diversity in the R community. She is also the co-host of a podcast about the R language."
 ---
 {% include header.md %}
 
@@ -81,16 +82,23 @@ The [call for abstracts](./call-for-abstracts.md) is open.
 - Sep 19: Deadline for proposals for talks
 - Oct 15-18: BioC Asia 2020 Virtual Meeting
 
-## Confirmed Speakers
+## Keynote Speakers
 
-{% for s in page.speakers %}
+{% for s in page.keynoteSpeakers %}
 {% assign imgpath = "images/speakers/" | append: s.name | remove: ' ' | append: '.jpg' %}
 <img src="{{ imgpath }}" style="float:right; width:150px; height:150px; object-fit: cover">
 ### [{{ s.name }}]({{ s.url }}), {{ s.inst }}
-
 > {{ s.blurb }}
-
 {% endfor %}
+
+## Invited Speakers
+{% for s in page.invitedSpeakers %}
+{% assign imgpath = "images/speakers/" | append: s.name | remove: ' ' | append: '.jpg' %}
+<img src="{{ imgpath }}" style="float:right; width:150px; height:150px; object-fit: cover">
+### [{{ s.name }}]({{ s.url }}), {{ s.inst }}
+> {{ s.blurb }}
+{% endfor %}
+
 
 More information: [hickey@wehi.edu.au][contact]
 
