@@ -53,11 +53,9 @@ BioC Asia 2020 is proceeding as a Virtual Conference.
 BioC Asia 2020 highlights current developments within and beyond the [Bioconductor](https://www.bioconductor.org) project, with a focus on developments from people in the Asia-Pacific region.
 Interactive sessions will be held 0830 - 1700 Beijing Time / China Standard Time (UTC + 8).
 
-[Registration for virtual BioC Asia 2020 is open](https://biocasia2020.eventbrite.com.au).
-A new flat-rate fee of 70.00 AUD will give attendees access to the virtual platform for the conference, talks, workshops, Q&As following each session, and network opportunities.
+Registration for BioC Asia 2020 is free and available through our [event page](https://biocasia2020.eventbrite.com.au/).
 
 The [call for abstracts](./call-for-abstracts.md) is open.
-The [call for scholarships](./scholarships.md) remains open and will waive the virtual registration fee.
 
 ## Conference highlights
 
@@ -79,10 +77,8 @@ The [call for scholarships](./scholarships.md) remains open and will waive the v
 ## Key dates for virtual BioC Asia 2020
 
 - Sep 3: Registration Opens
-- Sep 3: [Call for abstracts/applications for talks, posters, scholarships, workshops](./call-for-abstracts.md)
-- Sep 24: Deadline for proposals for talks and posters
-- Oct 1: Deadline for scholarships
-- Oct 5: Notification of decision for scholarships
+- Sep 3: [Call for abstracts for talks](./call-for-abstracts.md)
+- Sep 19: Deadline for proposals for talks
 - Oct 15-18: BioC Asia 2020 Virtual Meeting
 
 ## Confirmed Speakers
