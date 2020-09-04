@@ -79,7 +79,7 @@ The [call for abstracts](./call-for-abstracts.md) is open.
 
 - Sep 3: [Registration Opens](https://biocasia2020.eventbrite.com.au/)
 - Sep 3: [Call for abstracts for talks](./call-for-abstracts.md)
-- Sep 19: Deadline for proposals for talks
+- Sep 25: Deadline for proposals for talks
 - Oct 15-18: BioC Asia 2020 Virtual Meeting
 
 ## Keynote Speakers
