@@ -279,7 +279,7 @@ a:hover small {
   color: #777; }
 
 .wrapper {
-  width: 860px;
+  width: 960px;
   margin: 0 auto; }
 
 blockquote {
@@ -374,7 +374,7 @@ header ul a strong {
   color: #222; }
 
 section {
-  width: 500px;
+  width: 660px;
   float: right;
   padding-bottom: 50px; }
 
@@ -394,7 +394,7 @@ footer {
   bottom: 50px;
   -webkit-font-smoothing: subpixel-antialiased; }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1160px) {
   div.wrapper {
     width: auto;
     margin: 0; }
@@ -442,7 +442,7 @@ footer {
   header li, header ul li + li + li {
     width: 33%; } }
 @media print {
-  body {
+    body {
     padding: 0.4in;
     font-size: 12pt;
     color: #444; } }
