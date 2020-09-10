@@ -4,10 +4,17 @@ layout: default
 
 {% include header.md %}
 
-# Agenda
+# Calendar agenda
 
-All time is Beijing Time / China Standard Time (UTC + 8). 
+Schedule is based on Beijing Time / China Standard Time (UTC + 8),
+Please change to your preferred "Time zone" in this interactive
+calendar. 
+
 All sessions include Q&A time.
+
+<iframe src="https://teamup.com/ks8z1bgro22peqx8e8?showLogo=0&showSearch=1&showProfileAndInfo=0&showSidepanel=1&disableSidepanel=0&showTitle=0&showViewSelector=1&showMenu=1&showAgendaHeader=1&showAgendaDetails=0&showYearViewHeader=1" width="100%" height="800px" style="border: 1px solid #cccccc" frameborder="0"></iframe>
+
+# Agenda
 
 | Time                     | Track    | Speaker  
 |--------------------------|----------|---------
@@ -38,5 +45,3 @@ All sessions include Q&A time.
 | 11:50-12:45 AM         | Workshop       |
 | 12:50-13:00 AM         | Closing Remark |
 
-# Shared calendar
-<iframe src="https://teamup.com/ks8z1bgro22peqx8e8?showLogo=0&showSearch=1&showProfileAndInfo=0&showSidepanel=1&disableSidepanel=0&showTitle=0&showViewSelector=1&showMenu=1&showAgendaHeader=1&showAgendaDetails=0&showYearViewHeader=1" width="100%" height="800px" style="border: 1px solid #cccccc" frameborder="0"></iframe>
