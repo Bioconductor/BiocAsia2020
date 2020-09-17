@@ -2,11 +2,11 @@
 layout: default
 keynoteSpeakers:
   - name: Robert Gentleman
-    inst: Harvard Center for Computational Biomedicine
+    inst: Harvard Center for Computational Biomedicine, USA
     url: https://blog.23andme.com/23andme-research/a-computational-biologist-and-a-gentleman/
     blurb: "Robert Gentleman is currently the founding executive director of the Harvard Center for Computational Biomedicine. Prior to that, he has held important positions in 23andMe, Genentech, Fred Hutch Cancer Institute, and Dana Farber Cancer Institute at Harvard. He is recognized as one of the originators of the R programming language. He has also co-founded the Bioconductor project, which aims to promote the development of open-source tools for bioinformatics and computational biology."
   - name: Yi Xing
-    inst: Center for Computational and Genomic Medicine, Children’s Hospital of Philadelphia
+    inst: Center for Computational and Genomic Medicine, Children’s Hospital of Philadelphia, USA
     url: https://xinglab.org/people/yi-xing/
     blurb: "Dr. Yi Xing is the Francis West Lewis Endowed Chair and Founding Director of the Center for Computational and Genomic Medicine at the Children’s Hospital of Philadelphia (CHOP), and Professor of Pathology and Laboratory Medicine at the University of Pennsylvania (Penn). Dr. Xing has an extensive publication record in bioinformatics, genomics, and RNA biology. His work has provided fundamental insights into the function, regulation, and evolution of post-transcriptional RNA processing in mammals. His current research merges the fields of computational biology, biomedical data science, RNA genomics, human genetics, precision medicine, and immuno-oncology."
   - name: Xuegong Zhang
@@ -15,7 +15,7 @@ keynoteSpeakers:
     blurb: "Dr. Zhang is a Professor and Director of Bioinformatics Division, Beijing National Research Center for Information Science and Technology (BNRist). The main research directions are pattern recognition, bioinformatics, and systems biology. Great achievements have been made in high-throughput omics data processing and analysis methods, RNA sequencing and alternative splicing regulation, metagenomic analysis, biological big data machine learning, and precision medicine applications."
 invitedSpeakers:
   - name: Lihua Julie Zhu
-    inst: University of Massachusetts Medical School
+    inst: University of Massachusetts Medical School, USA
     url: https://profiles.umassmed.edu/display/129880
     blurb: "Lihua Julie Zhu is currently a professor and the head of Bioinformatics Core in the Department of Molecular, Cell and Cancer Biology (MCCB) of University of Massachusetts Medical School (UMMS). Her group has developed a dozen Bioconductor packages with various utilities including peak annotation (ChIPpeakAnno), motif analysis and visualization (motifStack and dagLogo), ATAC-seq data evaluation (ATACseqQC), polyadenylation site identification (cleanUpdTSeq and InPAS), multi-omics data integration and visualization (trackViewer and geneNetworkBuilder), nucleolar-associated domain finder (NADfinder), and gRNA design and evaluation (CRISPRseek and GUIDEseq) for the CRISPR genome editing system."
   - name: Kai Ye
