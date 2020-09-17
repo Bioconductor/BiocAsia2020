@@ -12,7 +12,7 @@ keynoteSpeakers:
   - name: Xuegong Zhang
     inst: Tsinghua University, China
     url: http://www.moebioinfo.tsinghua.edu.cn/team/guding/item/478-2016-09-07-15-01-52
-    blurb: "Dr. Zhang is a Professor and Director of Bioinformatics Division, Tsinghua National Laboratory of Information Science and Technology (TNLIST). The main research directions are pattern recognition, bioinformatics, and systems biology. Great achievements have been made in high-throughput omics data processing and analysis methods, RNA sequencing and alternative splicing regulation, metagenomic analysis, biological big data machine learning, and precision medicine applications."
+    blurb: "Dr. Zhang is a Professor and Director of Bioinformatics Division, Beijing National Research Center for Information Science and Technology (BNRist). The main research directions are pattern recognition, bioinformatics, and systems biology. Great achievements have been made in high-throughput omics data processing and analysis methods, RNA sequencing and alternative splicing regulation, metagenomic analysis, biological big data machine learning, and precision medicine applications."
 invitedSpeakers:
   - name: Lihua Julie Zhu
     inst: University of Massachusetts Medical School
