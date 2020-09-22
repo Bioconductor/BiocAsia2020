@@ -17,7 +17,7 @@ invitedSpeakers:
   - name: Lihua Julie Zhu
     inst: University of Massachusetts Medical School, USA
     url: https://profiles.umassmed.edu/display/129880
-    blurb: "Lihua Julie Zhu is currently a professor and the head of Bioinformatics Core in the Department of Molecular, Cell and Cancer Biology (MCCB) of University of Massachusetts Medical School (UMMS). Her group has developed a dozen Bioconductor packages with various utilities including peak annotation (ChIPpeakAnno), motif analysis and visualization (motifStack and dagLogo), ATAC-seq data evaluation (ATACseqQC), polyadenylation site identification (cleanUpdTSeq and InPAS), multi-omics data integration and visualization (trackViewer and geneNetworkBuilder), nucleolar-associated domain finder (NADfinder), and gRNA design and evaluation (CRISPRseek and GUIDEseq) for the CRISPR genome editing system."
+    blurb: "Lihua Julie Zhu is currently a professor and the head of Bioinformatics Core in the Department of Molecular, Cell and Cancer Biology (MCCB) of University of Massachusetts Medical School (UMMS). She has more than 110 publications including 15 in Nature series. Her group has developed a dozen Bioconductor packages with various utilities including peak annotation (ChIPpeakAnno), motif analysis and visualization (motifStack and dagLogo), ATAC-seq data evaluation (ATACseqQC), polyadenylation site identification (cleanUpdTSeq and InPAS), multi-omics data integration and visualization (trackViewer and geneNetworkBuilder), nucleolar-associated domain finder (NADfinder), and gRNA design and evaluation (CRISPRseek and GUIDEseq) for the CRISPR genome editing system."
   - name: Kai Ye
     inst: Xi'an Jiaotong University, China 
     url: http://gr.xjtu.edu.cn/web/kaiye
