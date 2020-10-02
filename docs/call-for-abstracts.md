@@ -14,7 +14,7 @@ We are delighted to announce that all posters and slides from the conference thi
 
 ### Poster/talk slides submission to F1000Research
 
-The BiocAsia2020 poster submission on F1000Research is still open. All are encouraged to submit their posters to the [Bioconductor BioC Asia 2020 conference gateway](https://f1000research.com/gateways/bioconductor/biocasia2020) before Oct. 13th (CST). There are no formatting requirements for posters (feel free to be creative); however, for those who would like to use it, a [poster template](https://drive.google.com/file/d/1N3pDnixeVwRFrjQrSJL9eziXq4RpcfaT/view) is available. Inclusion of the Bioconductor logo and/or #BioCAsia2020 is encouraged. For more submission details, please refer to the [Poster & Slides Guidelines](https://f1000research.com/gateways/bioconductor/for-authors/posters-and-slides-guidelines).
+The BiocAsia2020 poster submission on F1000Research is still open. All are encouraged to submit their posters to the [Bioconductor BioC Asia 2020 conference gateway](https://f1000research.com/gateways/bioconductor/biocasia2020) before Oct. 10th (CST). There are no formatting requirements for posters (feel free to be creative); however, for those who would like to use it, a [poster template](https://drive.google.com/file/d/1N3pDnixeVwRFrjQrSJL9eziXq4RpcfaT/view) is available. Inclusion of the Bioconductor logo and/or #BioCAsia2020 is encouraged. For more submission details, please refer to the [Poster & Slides Guidelines](https://f1000research.com/gateways/bioconductor/for-authors/posters-and-slides-guidelines).
 
 
 
