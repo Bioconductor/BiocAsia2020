@@ -37,7 +37,7 @@ calendar. All sessions include Q&A time.
 | 10:00-10:55 AM           | Invited Talks        | Drs. Lin Hou, Guangchuang Yu                            |
 | 11:00-11:15 AM           | Break                |                                                         |
 | 11:15-11:45 AM           | Contributed Talks    | Drs. Joseph Lee, Ms. Yue You                            |
-| 11:50 AM -12:45 PM           | workshops (parallel) | Drs. Shuangbin Xu (track 1), Stefano Mangiola (track 2) |
+| 11:50 AM-12:45 PM           | workshops (parallel) | Drs. Shuangbin Xu (track 1), Stefano Mangiola (track 2) |
 |                          |                      |                                                         |
 | **Sunday, 2020-10-18**   |                      |                                                         |
 | 9:00-9:55 AM             | Keynote Talk         | Dr. Xuegong Zhang                                       |
