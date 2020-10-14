@@ -9,6 +9,10 @@ layout: default
 Join the *Bioconductor*
 [\#biocasia2020](https://community-bioc.slack.com/archives/CSF3EKY0Y) channel for up-to-date information.
 
+## Getting started
+
+**Access and launch workshops by [clicking here](http://workshop.bioc.cancerdatasci.org/).**
+
 ### Chinese (中文)
 
 | Workshop                                                                                                                 | Source                                                                                             | Docker                                                                                                                  |
@@ -28,6 +32,9 @@ Join the *Bioconductor*
 | [Bioconductor toolchain for usage and development of reproducible bioinformatics pipelines in CWL](https://liubuntu.github.io/Bioc2020RCWL/)                             | [![GH](images/GitHub-Mark-32px.png)](https://github.com/Liubuntu/Bioc2020RCWL)                      | [![Docker](images/docker_icon.png)](https://hub.docker.com/repository/docker/liubuntu/bioc2020rcwl)                      |
 | [How to perform analysis of RNA sequencing data following the tidy data paradigm](https://stemangiola.github.io/biocasia2020_tidytranscriptomics/)                             | [![GH](images/GitHub-Mark-32px.png)](https://github.com/stemangiola/biocasia2020_tidytranscriptomics)                      | [![Docker](images/docker_icon.png)](https://hub.docker.com/r/stemangiola/biocasia2020_tidytranscriptomics)                      |
 | [Hands-on experience to CiteFuse that consists of a suite of tools for the integration and the downstream analysis of CITE-seq data](https://sydneybiox.github.io/BiocAsia2020CiteFuse)                             | [![GH](images/GitHub-Mark-32px.png)](https://github.com/SydneyBioX/BiocAsia2020CiteFuse)                      | [![Docker](images/docker_icon.png)](https://hub.docker.com/r/yingxinlin/biocasia2020citefuse)                      |
+
+
+## Using workshop docker images locally
 
 <sup></sup>
 
