@@ -43,9 +43,10 @@ calendar. All sessions include Q&A time.
 | 9:00-9:55 AM             | Keynote Talk         | Dr. Xuegong Zhang                                       |
 | 10:00-10:23 AM           | Invited Talks        | Dr. Tingting Li                                         |
 | 10:25-10:40 AM           | Contributed talks    | Dr. Xueyi Dong                                          |
-| 10:40-10:55 AM           | Lightning talks      | Shixiang Wang                                           |
+| 10:40-10:45 AM           | Lightning talks      | Shixiang Wang                                           |
+| 10:45-11:00 AM           | Poster session       |                                                         |
 | 11:00-11:15 AM           | Break                |                                                         |
 | 11:15-11:45 AM           | Contributed Talks    | Mr. Shian Su, Dr Antonio Colaprico                      |
-| 11:50-12:45 AM           | Workshops (parallel) | Drs. Luyi Tian (track 1), Hani Jieun Kim (track 2)       |
+| 11:50-12:45 AM           | Workshops (parallel) | Drs. Luyi Tian (track 1), Hani Jieun Kim (track 2)      |
 | 12:50-13:00 AM           | Closing Remark       | Dr. Matthew Ritchie                                     |
 
