@@ -7,6 +7,7 @@ layout: default
 ## Code of Conduct
 
 This code of conduct is developed for the BioC Asia 2020 conference.
+All conference participants must agree to adhere to this code of conduct and to Bioconductor's Project-wide Code of Conduct (available [here](https://bioconductor.org/about/code-of-conduct/)).
 
 ### Social media policy
 
@@ -107,12 +108,7 @@ assist you to feel safe for the duration of the event. We value your
 attendance.
 
     Conference organizers: workshop@bioconductor.org
-    Anonymous complaints: tinyurl.com/bioccomplaint ??
-    Local law enforcement: 110
-    Local sexual assault hot line: xxx-xxx-xxxx
-    [Phone number for conference security or organizers] 
-    [Phone number for hotel/venue security] 
-    [Local emergency and non-emergency medical (e.g., urgent care, day clinic)] 
+    Anonymous complaints: tinyurl.com/bioccomplaint
 
 ### Anti-harassment Committee
 

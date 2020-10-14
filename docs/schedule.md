@@ -37,7 +37,7 @@ calendar. All sessions include Q&A time.
 | 10:00-10:55 AM           | Invited Talks        | Drs. Lin Hou, Guangchuang Yu                            |
 | 11:00-11:15 AM           | Break                |                                                         |
 | 11:15-11:45 AM           | Contributed Talks    | Drs. Joseph Lee, Ms. Yue You                            |
-| 11:50-12:45 AM           | workshops (parallel) | Drs. Shuangbin Xu (track 1), Stefano Mangiola (track 2) |
+| 11:50 AM-12:45 PM        | workshops (parallel) | Drs. Shuangbin Xu (track 1), Stefano Mangiola (track 2) |
 |                          |                      |                                                         |
 | **Sunday, 2020-10-18**   |                      |                                                         |
 | 9:00-9:55 AM             | Keynote Talk         | Dr. Xuegong Zhang                                       |
@@ -47,6 +47,6 @@ calendar. All sessions include Q&A time.
 | 10:45-11:00 AM           | Poster session       |                                                         |
 | 11:00-11:15 AM           | Break                |                                                         |
 | 11:15-11:45 AM           | Contributed Talks    | Mr. Shian Su, Dr Antonio Colaprico                      |
-| 11:50-12:45 AM           | Workshops (parallel) | Drs. Luyi Tian (track 1), Hani Jieun Kim (track 2)      |
-| 12:50-13:00 AM           | Closing Remark       | Dr. Matthew Ritchie                                     |
+| 11:50-12:45 PM           | Workshops (parallel) | Drs. Luyi Tian (track 1), Hani Jieun Kim (track 2)      |
+| 12:50-13:00 PM           | Closing Remark       | Dr. Matthew Ritchie                                     |
 
